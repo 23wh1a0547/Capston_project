@@ -1,4 +1,4 @@
-# Single Cell Academic Research Data Management System - WITH DATABASE
+# Academic Research Data Management System - WITH DATABASE
 
 # 1. Install packages
 !pip install arxiv pandas gradio plotly google-cloud-firestore -q
